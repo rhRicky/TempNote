@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temp Note</string>
+    <string name="summary_title">临时笔记，自动过期</string>
+    <string name="summary_body">每条笔记都可以设置 6 小时、24 小时或 7 天后自动移入回收站，回收站保留 30 天。</string>
+    <string name="tab_notes">笔记</string>
+    <string name="tab_trash">回收站</string>
+    <string name="notes_count">%1$d 条笔记</string>
+    <string name="trash_count">%1$d 条待删除</string>
+    <string name="trash_policy">回收站中的笔记会在 30 天后自动彻底删除。</string>
+    <string name="empty_notes_title">还没有笔记</string>
+    <string name="empty_notes_body">点击右下角按钮，创建第一条临时笔记。</string>
+    <string name="empty_trash_title">回收站是空的</string>
+    <string name="empty_trash_body">超时的笔记会自动来到这里，你也可以从编辑页手动移入。</string>
+    <string name="new_note">新建笔记</string>
+    <string name="edit_note">编辑笔记</string>
+    <string name="hint_title">标题</string>
+    <string name="hint_content">写点什么。退出时会自动保存。</string>
+    <string name="retention_title">自动移入回收站时间</string>
+    <string name="retention_subtitle">按最后一次编辑时间计算</string>
+    <string name="retention_6h">6 小时</string>
+    <string name="retention_24h">24 小时</string>
+    <string name="retention_7d">7 天</string>
+    <string name="label_restore">恢复</string>
+    <string name="label_delete_forever">永久删除</string>
+    <string name="label_move_to_trash">移至回收站</string>
+    <string name="label_save">保存</string>
+    <string name="label_untitled">未命名笔记</string>
+    <string name="label_empty_content">空白内容</string>
+    <string name="meta_last_edited">最后编辑：%1$s</string>
+    <string name="meta_deleted">移入回收站：%1$s</string>
+    <string name="meta_auto_trash_at">自动回收：%1$s</string>
+    <string name="meta_retention">保留时长：%1$s</string>
+    <string name="toast_saved">笔记已保存</string>
+    <string name="toast_moved_to_trash">已移至回收站</string>
+    <string name="toast_restored">已恢复</string>
+    <string name="toast_deleted_forever">已永久删除</string>
+    <string name="toast_skipped_empty">空白新笔记未保存</string>
+    <string name="action_close">关闭</string>
+    <string name="content_description_add_note">添加笔记</string>
+</resources>
