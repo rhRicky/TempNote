@@ -9,6 +9,13 @@
 - **简洁编辑**：打开即可编辑，退出时自动保存
 - **数据持久化**：使用 Room 数据库本地存储，无需网络权限
 
+## 截图
+<img width="1080" height="2340" alt="1" src="https://github.com/user-attachments/assets/a30b95f9-1244-46fd-9320-9b23f29df9ba" />
+<img width="1080" height="2340" alt="2" src="https://github.com/user-attachments/assets/660d4d69-bf4e-462d-8077-14ff2ef67368" />
+<img width="1080" height="2340" alt="3" src="https://github.com/user-attachments/assets/ad17b077-f4ab-40ac-8267-a0bb9daec611" />
+<img width="1080" height="2340" alt="4" src="https://github.com/user-attachments/assets/93abf8ce-f254-409c-89ca-5fd5f7496cb4" />
+
+
 ## 技术栈
 
 - **语言**：Kotlin
